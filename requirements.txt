@@ -1,0 +1,12 @@
+pandas
+behave
+behave-pandas
+numpy
+quandl
+pyspark
+inspect-it
+BeautifulSoup4
+lxml
+sphinx
+findspark
+apache-spark
